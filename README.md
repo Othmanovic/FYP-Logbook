@@ -11,6 +11,6 @@ Content:
 -  Chapter 5: Conclusion
 
 Credits:
-Author: Othman Alhadiri
-Title: UTM Online Printing System (UTM-OPS)
-Supervisor: Cik Hazinah binti Kutty Mammi
+ - Author: Othman Alhadiri
+ - Title: UTM Online Printing System (UTM-OPS)
+ - Supervisor: Cik Hazinah binti Kutty Mammi
