@@ -2,7 +2,7 @@
 This is my final year project blog for documenting each process and can be used as a reference and a proof in auditing.
 
 Content:
--  Title Choice
+-  https://github.com/Othmanovic/FYP-Logbook/blob/main/Title%20choice
 -  Project Proposal
 -  Chapter 1: Introduction
 -  Chapter 2: Literature Review
