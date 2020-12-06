@@ -1,0 +1,66 @@
+- Proposal preperation:
+    It is time to prepare the project proposal after the topic was approved by
+    miss Hazinah. The next step will be defining the problem background as
+    well as the proposed solution for it, objectives and scope.
+
+
+- Proposal Evaluating by the supervisor:
+    After I received the corrections for the first and second draft of my proposal
+    from miss Hazinah, now the proposal is finalized and ready to be submitted
+    for evaluation.
+
+
+
+- Proposal Evaluation:
+
+    After the evaluation, the proposal was fully approved with comments and
+    suggestions by the evaluaters to help implementing the project
+
+
+    
+-Project Requirements:
+
+  - Software: Visual Studio Code, Github. Hardware: PC, Laptop. 
+  - Technology/Technique/ Method/Algorithm: html, CSS java script, Node JS
+  - Network Elements: Web based project, server-side based development. Connecting to database and doing CRU operation instantly.
+  - Security Elements: Authentication, Authorization, Data validation, Password Encryption.
+  - Project Type : System Development
+  - Project Area : Web development
+
+
+
+Objectives:
+
+  -To review and evaluate thecurrent way of the printing process for students and study front end
+   and back end web development techniques to build the system.
+   
+  -To develop a fully working webbased system and connect it to a database or cloud.
+   
+  -To perform several tests to verifyusability and ensure that the
+   system is working properly
+   
+   
+   Scope:
+
+  - The system will focus on three printing shops in the UTM campus
+    and a functionality to add or delete shops will be implemented.
+
+  - System users  are focused on students and staff at UTM Skudai campus.
+
+  - Payment methods will be using ewallet methods.
+  
+  
+  Comments by evaluators:
+  
+   - Conditional: Implement the objectives, scope and security elements asmentioned.
+
+   - Please consider user requirement for printing shop more.
+
+   - Suggestion: If you’re interested into objective 3, you may mainly focus on that
+     instead of full development.
+
+   - Printing shop can be your case study. Means that not focus on development,
+     development as a platform for testing only.
+
+   - Example: Code review for Printing Shop
+     Web Application.
